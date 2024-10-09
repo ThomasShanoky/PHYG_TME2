@@ -1,5 +1,5 @@
 .register
-data/
+#data/
 logs/
 
 **/__pycache__/
